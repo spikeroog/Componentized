@@ -10,4 +10,11 @@
 如下图：<br>
 ![](https://github.com/spikeroog/ComponentBuild/blob/master/d61accfcf5584cf13b6c71453683e4fa.png)
 ## 实践
+我们需要创建一个中央路由单例，如：`GitRouter`.
+中央路由是通过其他模块提供的方法表字符串映射到对应的方法的。 
+```Objc
+// 某个模块开放的字符串映射表
+
+```
+
 
